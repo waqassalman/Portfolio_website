@@ -35,7 +35,7 @@ export function Projects() {
             id: '5',
             portfolio_img: './assets/portfolio/ganeshspace-lms.png',
             link: '#',
-            title: 'Ganesh ( Online Yoga Website )',
+            title: 'Ganesh (Online Yoga Website)',
             techs: ['PHP', 'SQL', 'HTML', 'CSS']
         }
         ,
@@ -56,7 +56,7 @@ export function Projects() {
                     My Latest <span className="text-4xl font-semibold tracking-tight text-balance text-amber-500 sm:text4xl">Projects</span>
                 </h1>
 
-                <div class="grid xl:grid-cols-3 gap-6 not-md:grid-cols-12">
+                <div class="grid xl:grid-cols-3 gap-6 not-md:grid-cols-1">
                     {
                         portfolio.map((item, itemIndex) => (
                             <div className="portfolio-card" key={itemIndex}>
@@ -64,21 +64,21 @@ export function Projects() {
                                     <img
                                         className='rounded-lg'
                                         src={item.portfolio_img}
-                                        width={600}
-                                        alt=""
+                                        // width={600}
+                                        alt="#"
                                     >
                                     </img>
                                 </div>
                                 <div className='portfolio-techs flex gap-4 pt-5 pb-5'>
                                     {item.techs.map((techs) => (
-                                        <div className='rounded-full bg-amber-500 px-3.5 py-2.5 text-sm font-semibold text-black shadow-xs focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600'>{techs}</div>
+                                        <div className='rounded-full bg-amber-500 px-3.5 py-2.5 text-sm font-semibold text-black shadow-xs focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600 not-lg:px-1 not-lg:py-2 not-lg:text-xs/2'>{techs}</div>
                                     ))
                                     }
 
                                 </div>
                                 <div className="portfolio-title flex" style={{ alignItems: 'center' }}>
 
-                                    <h1 className='text-xl font-semibold'>{item.title}</h1>
+                                    <h1 className='text-xl font-semibold not-md:text-sm'>{item.title}</h1>
                                     <a href={item.link} target="_blank" class="ml-10 text-xl font-black text-center text-amber-400 bg-teal-900 px-3 py-2 rounded-full"> <span aria-hidden="true">&rarr;</span></a>
                                 </div>
 
