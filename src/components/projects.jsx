@@ -5,35 +5,35 @@ export function Projects() {
     const portfolio = [
         {
             id: '1',
-            portfolio_img: './src/assets/portfolio/Courses.png',
+            portfolio_img: './assets/portfolio/Courses.png',
             link: 'https://forex-students.surge.sh/',
             title: 'Pak Forex - LMS ( Learning Management System)',
             techs: ['React', 'Redux', 'Ant Design', 'GraphQL']
         },
         {
             id: '2',
-            portfolio_img: './src/assets/portfolio/fisheye-videoPNG.png',
+            portfolio_img: './assets/portfolio/fisheye-videoPNG.png',
             link: 'https://fisheye-demo.netlify.app',
             title: 'Fisheye ( Video Selling Website )',
             techs: ['Angular', 'Ngx-plyr', 'TypeScript', 'Paypal']
         },
         {
             id: '3',
-            portfolio_img: './src/assets/portfolio/wr-pro-league.png',
+            portfolio_img: './assets/portfolio/wr-pro-league.png',
             link: 'https://wrproleague.thebackendprojects.com/',
             title: 'WP Pro League ( Branding Website )',
             techs: ['HTML', 'CSS', 'Bootstrap', 'Animations']
         },
         {
             id: '4',
-            portfolio_img: './src/assets/portfolio/sss-home.png',
+            portfolio_img: './assets/portfolio/sss-home.png',
             link: 'https://sheikhskilledsolutions.com/',
             title: 'Sheikh Skilled Solutions ( Branding Website )',
             techs: ['Wordpress', 'Contact form', 'WP theme']
         },
         {
             id: '5',
-            portfolio_img: './src/assets/portfolio/ganeshspace-lms.png',
+            portfolio_img: './assets/portfolio/ganeshspace-lms.png',
             link: '#',
             title: 'Ganesh ( Online Yoga Website )',
             techs: ['PHP', 'SQL', 'HTML', 'CSS']
@@ -41,7 +41,7 @@ export function Projects() {
         ,
         {
             id: '6',
-            portfolio_img: './src/assets/portfolio/next-dashboard.png',
+            portfolio_img: './assets/portfolio/next-dashboard.png',
             link: 'https://next-js-dashboard-mockup.vercel.app/login',
             title: 'Next Dashboard Mockup ( ERP Dashboard Mockup ) Email: user@nextmail.com , password: 123456',
             techs: ['Next.js', 'Postgresql', 'Tailwind.css']

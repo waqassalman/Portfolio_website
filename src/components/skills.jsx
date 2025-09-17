@@ -14,7 +14,7 @@ export function Tools() {
                                 <div className='tools-img-sec'>
                                     <img
                                     className='tools-img'
-                                        src="./src/assets/react.png"
+                                        src="./assets/react.png"
                                         width={100} height={100}
                                         alt=""
                                     ></img>
@@ -23,7 +23,7 @@ export function Tools() {
                                     <div className='tools-img-sec'>
                                     <img
                                     className='tools-img'
-                                        src="./src/assets/angular.png"
+                                        src="./assets/angular.png"
                                         width={100} height={100}
                                         alt=""
                                     ></img>
@@ -32,7 +32,7 @@ export function Tools() {
                                     <div className='tools-img-sec'>
                                     <img
                                     className='tools-img'
-                                        src="./src/assets/typescript.png"
+                                        src="./assets/typescript.png"
                                         width={100} height={100}
                                         alt=""
                                     ></img>
@@ -41,7 +41,7 @@ export function Tools() {
                                     <div className='tools-img-sec'>
                                     <img
                                     className='tools-img'
-                                        src="./src/assets/shopify.png"
+                                        src="./assets/shopify.png"
                                         width={100} height={100}
                                         alt=""
                                     ></img>
@@ -50,7 +50,7 @@ export function Tools() {
                                     <div className='tools-img-sec'>
                                     <img
                                     className='tools-img'
-                                        src="./src/assets/wordpress.png"
+                                        src="./assets/wordpress.png"
                                         width={100} height={100}
                                         alt=""
                                     ></img>
@@ -59,7 +59,7 @@ export function Tools() {
                                     <div className='tools-img-sec'>
                                     <img
                                     className='tools-img'
-                                        src="./src/assets/github.png"
+                                        src="./assets/github.png"
                                         width={100} height={100}
                                         alt=""
                                     ></img>

@@ -41,14 +41,14 @@ export function HomeBanner() {
               <div className='mt-10 flex items-center gap-x-6 not-lg:mt-0.5'> 
                 <a href='https://github.com/waqassalman' target='_blank'>
                 <img className=''
-                src="./Portfolio_website/public/assets/linkedin.png"
+                src="./assets/linkedin.png"
                 width={32} height={32}
                 alt="#"
                 ></img>
                 </a>
                 <a href='https://www.linkedin.com/in/waqas-salman' target='_blank'>
                  <img 
-                src="./Portfolio_website/public/assets/github.png"
+                src="./assets/github.png"
                 width={32} height={32}
                 alt="#"
                 ></img>
@@ -60,7 +60,7 @@ export function HomeBanner() {
             <div className='home-image-col'>
               <img
                 className="home-image xl:block not-lg:hidden"
-                src='./Portfolio_website/public/assets/myimage.png'
+                src='./assets/myimage.png'
                 alt='#'>
               </img>
             </div>

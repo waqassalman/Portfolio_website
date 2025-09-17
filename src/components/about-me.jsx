@@ -24,7 +24,7 @@ export function AboutMe() {
                         <div className='flex justify-center'>
                             <img
                                 className=""
-                                src='./src/assets/about-me-bg.png'
+                                src='./assets/about-me-bg.png'
                                 width={400}
                                 alt=''>
                             </img>
