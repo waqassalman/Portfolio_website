@@ -47,7 +47,7 @@ export function HomeBanner() {
                 </a>
                 <a href='https://www.linkedin.com/in/waqas-salman' target='_blank'>
                  <img 
-                src="./src/assets/github.png"
+                src="/src/assets/github.png"
                 width={32} height={32}
                 alt=""
                 ></img>
