@@ -52,7 +52,7 @@ export function AboutMe() {
                             <div className="mt-8">
                                 <a
                                     href={ExampleDoc}
-                                    download="MyExampleDoc" 
+                                    download="Waqas_Salman_CV" 
                                     target='_blank'
                                     className="rounded-full bg-teal-700 px-3.5 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-teal-500 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
                                 >
