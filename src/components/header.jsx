@@ -22,7 +22,6 @@ export function header() {
               <img
                 alt=""
                 src="./assets/salamit.png"
-                // width={60}
                 className="h-12 w-auto"
               />
             </a>
@@ -45,7 +44,7 @@ export function header() {
             ))}
           </div>
           <div className="hidden lg:flex lg:flex-1 lg:justify-end">
-            <a href="#" className="rounded-full bg-emerald-800 px-3.5 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-indigo-500 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">
+            <a href="mailto:waqasworkid@gmail.com" className="rounded-full bg-emerald-800 px-3.5 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-amber-700 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">
               Contact
             </a>
           </div>
@@ -58,8 +57,8 @@ export function header() {
                 <span className="sr-only">Your Company</span>
                 <img
                   alt=""
-                  src="https://tailwindcss.com/plus-assets/img/logos/mark.svg?color=indigo&shade=600"
-                  className="h-8 w-auto"
+                  src="./assets/salamit.png"
+                  className="h-12 w-auto"
                 />
               </a>
               <button
@@ -87,7 +86,7 @@ export function header() {
                 <div className="py-6">
                   <a
                     href="mailto:waqasworkid@gmail.com"
-                    className="rounded-full bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-indigo-500 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
+                    className="rounded-full bg-emerald-800 px-3.5 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-amber-700 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
                   >
                     Contact
                   </a>
