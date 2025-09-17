@@ -50,7 +50,7 @@ export function Projects() {
 
 
     return (
-        <div id="projects" className="bg-gray-100 px-20">
+        <div id="projects" className="bg-gray-100 px-20 not-md:px-10">
             <div className="tools-sec py-14 not-md:py-4">
                 <h1 className="pb-10 text-4xl text-center font-light italic tracking-tight text-balance sm:text4xl">
                     My Latest <span className="text-4xl font-semibold tracking-tight text-balance text-amber-500 sm:text4xl">Projects</span>

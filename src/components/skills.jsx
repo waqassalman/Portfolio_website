@@ -10,7 +10,7 @@ export function Tools() {
                         </h1>
                         <h2 className="pt-1 text-4xl font-semibold tracking-tight text-balance text-amber-500 sm:text4xl">Behind My Designs</h2>
                         <div className='mt-10 items-center gap-x-6'>
-                            <div className='flex justify-center xl:gap-x-16 sm:gap-x-5'>
+                            <div className='flex justify-center xl:gap-x-16 not-md:gap-x-2'>
                                 <div className='tools-img-sec'>
                                     <img
                                     className='tools-img'

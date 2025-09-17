@@ -12,7 +12,12 @@
 @media screen and (max-width: 992px) {
 
     .tools-img {
-        padding: 0.5rem;
-        width: 4.5rem !important;
+        padding: 0px;
+        width: 4rem !important;
+    }
+    .tools-img-sec p{
+        font-size: 0.8rem;
+        color: white;
+        padding-top: 1rem;
     }
 }
