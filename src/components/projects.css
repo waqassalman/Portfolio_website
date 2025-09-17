@@ -1,0 +1,17 @@
+.portfolio-card {
+    background-color: white;
+    border-radius: 20px;
+    border: 0.05rem solid #dbdbdb;
+    padding: 1.5rem;
+}
+.embla {
+    overflow: hidden;
+  }
+  .embla__container {
+    display: flex;
+  }
+  .embla__slide {
+    flex: 0 0 100%;
+    min-width: 0;
+  }
+  

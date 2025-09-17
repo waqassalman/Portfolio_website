@@ -1,0 +1,18 @@
+.tools-img {
+    background-color: white;
+    padding: 15px;
+    border-radius: 50%;
+}
+.tools-img-sec p{
+    font-size: 1rem;
+    color: white;
+    padding-top: 1rem;
+}
+/* On screens that are 992px wide or less, go from four columns to two columns */
+@media screen and (max-width: 992px) {
+
+    .tools-img {
+        padding: 0.5rem;
+        width: 4.5rem !important;
+    }
+}

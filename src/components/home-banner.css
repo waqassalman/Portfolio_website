@@ -1,0 +1,29 @@
+.home-image {
+    position: relative;
+    z-index: 3;
+}
+.home-image-col:before {
+    content: '';
+    border-radius: 50%;
+    position: absolute;
+    top: 4rem;
+    right: 12rem;
+    z-index: 1;
+    width: 20rem;
+    background-color: #45a04917;
+    height: 20rem;
+}
+.home-image-col:after {
+    content: '';
+    border-radius: 50%;
+    position: absolute;
+    top: 15rem;
+    right: 1.8rem;
+    z-index: 1;
+    width: 20rem;
+    background-color: #2d5a27ab;
+    height: 20rem;
+}
+.name-heading{
+    color: #2d5a27ab;
+}
