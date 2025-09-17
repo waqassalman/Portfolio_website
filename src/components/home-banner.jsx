@@ -59,7 +59,7 @@ export function HomeBanner() {
             <div className='home-image-col'>
               <img
                 className="home-image xl:block not-lg:hidden"
-                src='./src/assets/myimage.png'
+                src='/src/assets/myimage.png'
                 alt=''>
               </img>
             </div>
