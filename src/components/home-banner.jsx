@@ -38,7 +38,7 @@ export function HomeBanner() {
                   Get started
                 </a>  
               </div> */}
-              <div className='mt-10 flex items-center gap-x-6 not-lg:mt-0.5'> 
+              <div className='mt-10 flex items-center gap-x-6 not-lg:mt-5'> 
                 <a href='https://github.com/waqassalman' target='_blank'>
                 <img className=''
                 src="./assets/linkedin.png"
