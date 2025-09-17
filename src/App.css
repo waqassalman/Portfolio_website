@@ -4,7 +4,9 @@
   margin: 0 auto;
   font-family: "Lato", sans-serif;
 }
-
+nav a{
+  cursor: pointer;
+}
 .logo {
   height: 6em;
   padding: 1.5em;

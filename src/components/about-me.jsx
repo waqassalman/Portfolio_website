@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './home-banner.css'
-import ExampleDoc from './../../public/assets/Waqas_Salman_Resume.pdf'
+import ExampleDoc from './assets/Waqas_Salman_Resume.pdf'
 export function AboutMe() {
 
     return (
