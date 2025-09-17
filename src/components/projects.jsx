@@ -71,7 +71,7 @@ export function Projects() {
                                 </div>
                                 <div className='portfolio-techs flex gap-4 pt-5 pb-5'>
                                     {item.techs.map((techs) => (
-                                        <div className='rounded-full bg-amber-500 px-3.5 py-2.5 text-sm font-semibold text-black shadow-xs hover:bg-teal-800 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600'>{techs}</div>
+                                        <div className='rounded-full bg-amber-500 px-3.5 py-2.5 text-sm font-semibold text-black shadow-xs focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600'>{techs}</div>
                                     ))
                                     }
 
