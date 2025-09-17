@@ -12,7 +12,7 @@ export function Projects() {
         },
         {
             id: '2',
-            portfolio_img: './assets/portfolio/fisheye-videoPNG.png',
+            portfolio_img: './assets/portfolio/fisheye-video.png',
             link: 'https://fisheye-demo.netlify.app',
             title: 'Fisheye ( Video Selling Website )',
             techs: ['Angular', 'Ngx-plyr', 'TypeScript', 'Paypal']
