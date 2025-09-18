@@ -26,7 +26,7 @@ export function header() {
               />
             </a>
           </div>
-          <div className="flex lg:hidden">
+          <div className="flex lg:hidden not-md:hidden">
             <button
               type="button"
               onClick={() => setMobileMenuOpen(true)}
