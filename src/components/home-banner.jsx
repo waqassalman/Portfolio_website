@@ -27,8 +27,8 @@ export function HomeBanner() {
                 <br></br>
                 Frontend Web Developer
               </h1>
-              <p className="mt-8 font-medium text-pretty text-gray-500 not-lg:mt-2 lg:text-xl md:text-lg sm:text-xl">
-                My expertise lies in designing and implementing responsive and user-friendly applications utilizing modern frameworks, including React, Angular, React Native, Shopify, and WordPress
+              <p className="mt-8 font-medium text-pretty text-gray-700 not-lg:mt-2 lg:text-xl md:text-lg sm:text-xl">
+                My expertise lies in designing and implementing responsive and user-friendly applications utilizing modern frameworks, including React, Python, Next.js, Angular, React Native, Shopify, WordPress and more.
               </p>
               {/* <div className="mt-10 flex items-center gap-x-6">
               <a
