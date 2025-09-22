@@ -38,14 +38,40 @@ export function Projects() {
             title: 'Ganesh (Online Yoga Website)',
             techs: ['PHP', 'SQL', 'HTML', 'CSS']
         }
+        
         ,
         {
             id: '6',
+            portfolio_img: './assets/portfolio/patel_canada.png',
+            link: 'https://patelcanadavisa.com',
+            title: 'Patel Canada Visa (Branding Website)',
+            techs: ['Wordpress', 'Divi Theme', 'Contact Form']
+        }
+        ,
+        {
+            id: '7',
+            portfolio_img: './assets/portfolio/ecopure.png',
+            link: 'https://waqassalman.github.io/eplant_shopping_react',
+            title: 'Ecopure Plant Selling Mockup (E-commerce Website)',
+            techs: ['React.js', 'Redux', 'Hooks','Fetch API']
+        }
+        ,
+        {
+            id: '8',
             portfolio_img: './assets/portfolio/next-dashboard.png',
             link: 'https://next-js-dashboard-mockup.vercel.app/login',
             title: 'Next Dashboard Mockup ( ERP Dashboard Mockup ) Email: user@nextmail.com , password: 123456',
             techs: ['Next.js', 'Postgresql', 'Tailwind.css']
         }
+        ,
+        {
+            id: '9',
+            portfolio_img: './assets/portfolio/luxury_design.png',
+            link: 'https://luxurycreativedesign.com/',
+            title: 'Luxury Creative Design (Branding Website)',
+            techs: ['Wordpress', 'Elementor', 'Contact Form']
+        }
+    
     ]
 
 
