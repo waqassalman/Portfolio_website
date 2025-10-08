@@ -4,7 +4,7 @@ import './home-banner.css'
 export function HomeBanner() {
 
   return (
-    <div className="bg-white pt-10">
+    <div className="bg-white pt-10 h-screen">
 
       <div className="relative isolate px-6 pt-14 lg:px-8">
         <div
@@ -28,8 +28,7 @@ export function HomeBanner() {
                 Frontend Web Developer
               </h1>
               <p className="mt-8 font-medium text-pretty text-gray-700 not-lg:mt-2 lg:text-xl md:text-lg sm:text-xl">
-                My expertise lies in designing and implementing responsive and user-friendly applications utilizing modern frameworks, including React, Python, Next.js, Angular, React Native, Shopify, WordPress and more.
-              </p>
+              Frontend Developer with ~5 years of experience building scalable, user-friendly web applications using React, Angular, TypeScript, and modern frontend tools. Strong focus on performance optimization, responsive design, accessibility, and writing maintainable code. Seeking intermediate/full-stack frontend role in the Toronto / GTA area to bring technical skill and collaboration to a product-oriented team. </p>
               {/* <div className="mt-10 flex items-center gap-x-6">
               <a
                   href="#"
