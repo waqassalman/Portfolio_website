@@ -3,7 +3,7 @@ import './skills.css'
 export function Tools() {
 
     return (
-        <div id="skills" className="bg-emerald-700 h-screen relative">
+        <div id="skills" className="bg-emerald-700 md:h-screen relative">
             <div className="tools-sec text-center pt-24">
                         <h1 className="text-4xl font-light italic tracking-tight text-balance text-white sm:text4xl">
                             Exploring the Technical Skills

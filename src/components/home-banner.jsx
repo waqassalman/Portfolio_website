@@ -4,7 +4,7 @@ import './home-banner.css'
 export function HomeBanner() {
 
   return (
-    <div className="bg-white pt-10 h-screen">
+    <div className="bg-white pt-10 md:h-screen">
 
       <div className="relative isolate px-6 pt-14 lg:px-8">
         <div
