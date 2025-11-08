@@ -27,7 +27,7 @@ export function HomeBanner() {
                 <br></br>
               </h1>
               <p className="mt-8 font-medium text-pretty text-gray-700 not-lg:mt-2 lg:text-xl md:text-lg sm:text-xl">
-              Frontend Developer with ~5 years of experience building scalable, user-friendly web applications using React, Angular, TypeScript, and modern frontend tools. Strong focus on performance optimization, responsive design, accessibility, and writing maintainable code. Seeking intermediate/full-stack frontend role in the Toronto / GTA area to bring technical skill and collaboration to a product-oriented team. </p>
+              Detail-oriented Software and Web Developer with 4+ years of hands-on experience designing and building responsive, user-focused applications using React, Angular, Typescript, PHP, Python, and Express.js. Proven track record of improving application performance, streamlining workflows, and enhancing user engagement through clean, maintainable code and modern frameworks.</p>
               {/* <div className="mt-10 flex items-center gap-x-6">
               <a
                   href="#"
