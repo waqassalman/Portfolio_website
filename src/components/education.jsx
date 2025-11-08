@@ -24,7 +24,7 @@ export function Education() {
         experience: [
             {
                 id: 1,
-                company: "Self-Employed",
+                company: "Line Security Services",
                 year_start: "2023",
                 year_end: "2025",
                 ocupation: "Front-end Developer"
@@ -51,6 +51,13 @@ export function Education() {
                 month: "September",
                 year: "2025",
                 title: "Developing Front-End Apps with React"
+            },
+            {
+                id: 2,
+                company: "Google",
+                month: "November",
+                year: "2025",
+                title: "Introduction to AI"
             },
         ]
     }

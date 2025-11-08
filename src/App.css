@@ -7,6 +7,26 @@
 nav a{
   cursor: pointer;
 }
+.name-heading span:after{
+  content: 'Web Developer';
+  animation: words 6s infinite;
+}
+@keyframes words{
+  0%, 33%{
+    content: 'Web Developer';
+    color:#005f44
+  }
+  34%, 66%{
+    content: 'Software Developer';
+    color: #21786e
+    
+  }
+  67%, 100%{
+    content: 'Frontend Developer';
+    color: #cddc29
+    
+  }
+}
 .logo {
   height: 6em;
   padding: 1.5em;

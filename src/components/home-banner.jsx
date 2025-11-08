@@ -25,7 +25,6 @@ export function HomeBanner() {
               <h1 className="pt-32 font-semibold tracking-tight text-balance text-gray-900 xl:text-6xl lg:text-5xl md:text-5xl not-sm:text-4xl">
                 Hi, I am <span className='name-heading'>Waqas Salman</span>
                 <br></br>
-                Frontend Web Developer
               </h1>
               <p className="mt-8 font-medium text-pretty text-gray-700 not-lg:mt-2 lg:text-xl md:text-lg sm:text-xl">
               Frontend Developer with ~5 years of experience building scalable, user-friendly web applications using React, Angular, TypeScript, and modern frontend tools. Strong focus on performance optimization, responsive design, accessibility, and writing maintainable code. Seeking intermediate/full-stack frontend role in the Toronto / GTA area to bring technical skill and collaboration to a product-oriented team. </p>
