@@ -22,9 +22,8 @@ export function HomeBanner() {
         <div className="grid grid-cols-12 gap-4">
           <div className="xl:col-span-8 pb-32 lg:col-span-8 not-xl:col-span-12">
             <div className="">
-              <h1 className="pt-32 font-semibold tracking-tight text-balance text-gray-900 xl:text-6xl lg:text-5xl md:text-5xl not-sm:text-4xl">
-                Hi, I am <span className='name-heading'>Waqas Salman</span>
-                <br></br>
+              <h1 className="heading pt-32 font-semibold tracking-tight text-balance text-gray-900 xl:text-6xl lg:text-5xl md:text-5xl not-sm:text-4xl">
+                Hi, I am <span >Waqas Salman <br></br></span>
               </h1>
               <p className="mt-8 font-medium text-pretty text-gray-700 not-lg:mt-2 lg:text-xl md:text-lg sm:text-xl">
               Detail-oriented Software and Web Developer with 4+ years of hands-on experience designing and building responsive, user-focused applications using React, Angular, Typescript, PHP, Python, and Express.js. Proven track record of improving application performance, streamlining workflows, and enhancing user engagement through clean, maintainable code and modern frameworks.</p>
@@ -37,14 +36,14 @@ export function HomeBanner() {
                 </a>  
               </div> */}
               <div className='mt-10 flex items-center gap-x-6 not-lg:mt-5'> 
-                <a href='https://github.com/waqassalman' target='_blank'>
+                <a href='https://www.linkedin.com/in/waqas-salman' target='_blank'>
                 <img className=''
                 src="./assets/linkedin.png"
                 width={32} height={32}
                 alt="#"
                 ></img>
                 </a>
-                <a href='https://www.linkedin.com/in/waqas-salman' target='_blank'>
+                <a href='https://github.com/waqassalman' target='_blank'>
                  <img 
                 src="./assets/github.png"
                 width={32} height={32}

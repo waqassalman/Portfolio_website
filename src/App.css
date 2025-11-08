@@ -7,7 +7,7 @@
 nav a{
   cursor: pointer;
 }
-.name-heading span:after{
+.heading span:after{
   content: 'Web Developer';
   animation: words 6s infinite;
 }
@@ -23,7 +23,7 @@ nav a{
   }
   67%, 100%{
     content: 'Frontend Developer';
-    color: #cddc29
+    color: #45a04966;
     
   }
 }
