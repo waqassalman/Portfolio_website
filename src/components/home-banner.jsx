@@ -26,7 +26,7 @@ export function HomeBanner() {
                 Hi, I am <span >Waqas Salman <br></br></span>
               </h1>
               <p className="mt-8 font-medium text-pretty text-gray-700 not-lg:mt-2 lg:text-xl md:text-lg sm:text-xl">
-              Detail-oriented Software and Web Developer with 4+ years of hands-on experience designing and building responsive, user-focused applications using React, Angular, Typescript, PHP, Python, and Express.js. Proven track record of improving application performance, streamlining workflows, and enhancing user engagement through clean, maintainable code and modern frameworks.</p>
+              Detail-oriented Software and Web Developer with 3+ years of hands-on experience designing and building responsive, user-focused applications using React, Angular, Typescript, PHP, Python, and Express.js. Proven track record of improving application performance, streamlining workflows, and enhancing user engagement through clean, maintainable code and modern frameworks. Experienced in applying machine learning and natural language processing (NLP) techniques in academic and professional projects to develop smart, AI-assisted solutions</p>
               {/* <div className="mt-10 flex items-center gap-x-6">
               <a
                   href="#"
@@ -57,7 +57,7 @@ export function HomeBanner() {
             <div className='home-image-col'>
               <img
                 className="home-image xl:block not-lg:hidden"
-                src='./assets/myimage.png'
+                src='./assets/myimage1.png'
                 alt='#'>
               </img>
             </div>

@@ -36,7 +36,7 @@ export function AboutMe() {
                                 Who is <span className='text-teal-700 font-normal italic'>Waqas Salman?</span>
                             </h1>
                             <p className="mt-8 font-medium text-pretty text-lg text-black mb-8 not-md:mt-4 not-md:mb-4 not-md:text-sm">
-                                I am a proficient frontend developer with over four years of extensive professional experience and a Master's degree in Computer Science from Middlesex University, London. My expertise lies in designing and implementing responsive and user-friendly applications utilizing modern frameworks, including React, Angular, React Native, Shopify, and WordPress. Additionally, my academic curriculum included a significant graduate project focused on Artificial Intelligence, during which I applied Python programming to develop advanced machine learning models and intelligent systems.
+                                I am a proficient Web/Software developer with over four years of extensive professional experience and a Master's degree in Computer Science from Middlesex University, London. My expertise lies in designing and implementing responsive and user-friendly applications utilizing modern frameworks, including React, Angular, Expres.js, Node.js, and MongoDB. Additionally, my academic curriculum included a significant graduate project focused on Artificial Intelligence, during which I applied Python programming to develop advanced machine learning models and intelligent systems.
                             </p>
                             <div class="grid grid-cols-3 gap-4">
                                 <div class="not-md:text-sm">

@@ -41,20 +41,20 @@ export function Tools() {
                                     <div className='tools-img-sec'>
                                     <img
                                     className='tools-img'
-                                        src="./assets/shopify.png"
+                                        src="./assets/js.png"
                                         width={100} height={100}
                                         alt=""
                                     ></img>
-                                    <p>Shopify</p>
+                                    <p>Javascript</p>
                                     </div>
                                     <div className='tools-img-sec'>
                                     <img
                                     className='tools-img'
-                                        src="./assets/wordpress.png"
+                                        src="./assets/python.png"
                                         width={100} height={100}
                                         alt=""
                                     ></img>
-                                    <p>Wordpress</p>
+                                    <p>Python</p>
                                     </div>
                                     <div className='tools-img-sec'>
                                     <img
