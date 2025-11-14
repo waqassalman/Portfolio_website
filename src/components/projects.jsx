@@ -5,34 +5,41 @@ export function Projects() {
     const portfolio = [
         {
             id: '1',
+            portfolio_img: './assets/portfolio/Habusa_backend.png',
+            link: 'https://waqassalman.github.io/habusa_backend_view/',
+            title: 'UrbanTech - Ecommerce Dashboard',
+            techs: ['MERN', 'Express', 'Node', 'MongoDB', 'React']
+        },
+        {
+            id: '2',
             portfolio_img: './assets/portfolio/Courses.png',
             link: 'https://forex-students.surge.sh/',
             title: 'Pak Forex - LMS ( Learning Management System)',
             techs: ['React', 'Redux', 'Ant Design', 'GraphQL']
         },
         {
-            id: '2',
+            id: '3',
             portfolio_img: './assets/portfolio/fisheye-video.png',
             link: 'https://fisheye-demo.netlify.app',
             title: 'Fisheye ( Video Selling Website )',
             techs: ['Angular', 'Ngx-plyr', 'TypeScript', 'Paypal']
         },
         {
-            id: '3',
+            id: '4',
             portfolio_img: './assets/portfolio/wr-pro-league.png',
             link: 'https://wrproleague.thebackendprojects.com/',
             title: 'WP Pro League ( Branding Website )',
             techs: ['HTML', 'CSS', 'Bootstrap', 'Animations']
         },
         {
-            id: '4',
+            id: '5',
             portfolio_img: './assets/portfolio/sss-home.png',
             link: 'https://sheikhskilledsolutions.com/',
             title: 'Sheikh Skilled Solutions ( Branding Website )',
             techs: ['Wordpress', 'Contact form', 'WP theme']
         },
         {
-            id: '5',
+            id: '6',
             portfolio_img: './assets/portfolio/ganeshspace-lms.png',
             link: '#',
             title: 'Ganesh (Online Yoga Website)',
@@ -41,7 +48,7 @@ export function Projects() {
         
         ,
         {
-            id: '6',
+            id: '7',
             portfolio_img: './assets/portfolio/patel_canada.png',
             link: 'https://patelcanadavisa.com',
             title: 'Patel Canada Visa (Branding Website)',
@@ -49,7 +56,7 @@ export function Projects() {
         }
         ,
         {
-            id: '7',
+            id: '8',
             portfolio_img: './assets/portfolio/ecopure.png',
             link: 'https://waqassalman.github.io/eplant_shopping_react',
             title: 'Ecopure Plant Selling Mockup (E-commerce Website)',
@@ -57,7 +64,7 @@ export function Projects() {
         }
         ,
         {
-            id: '8',
+            id: '9',
             portfolio_img: './assets/portfolio/next-dashboard.png',
             link: 'https://next-js-dashboard-mockup.vercel.app/login',
             title: 'Next Dashboard Mockup ( ERP Dashboard Mockup ) Email: user@nextmail.com , password: 123456',
@@ -65,7 +72,7 @@ export function Projects() {
         }
         ,
         {
-            id: '9',
+            id: '10',
             portfolio_img: './assets/portfolio/luxury_design.png',
             link: 'https://luxurycreativedesign.com/',
             title: 'Luxury Creative Design (Branding Website)',
